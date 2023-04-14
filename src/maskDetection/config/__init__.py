@@ -1,0 +1,1 @@
+from maskDetection.config.configuration import ConfigurationManager

@@ -1,0 +1,1 @@
+from maskDetection.components.data_ingestion import DataIngestion
