@@ -8,7 +8,6 @@ from maskDetection.entity.config_entity import DataIngestionConfig
 from maskDetection.entity.artifact_entity import DataIngestionArtifact
 
 
-
 class DataIngestion:
     def __init__(self, data_ingestion_config: DataIngestionConfig = DataIngestionConfig()):
         try:
